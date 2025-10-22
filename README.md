@@ -138,5 +138,5 @@ This project is licensed under the MIT License.
 ---
 
 <div align="center">
-Made with ❤️ by Akansh Agarwal
+Made by Aman Bhatnagar
 </div>
